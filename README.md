@@ -1,5 +1,5 @@
 # WebCrypto
-Crypto currency price information application
+Crypto currency price information application.|
 Technologies used: 
 | React js
 | Material UI
